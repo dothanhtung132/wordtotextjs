@@ -1,0 +1,14 @@
+{
+  "name": "@tungdo/wordtotextjs",
+  "version": "1.0.1",
+  "description": "Convert Doc, Docx to Text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordtotextjs"
+  ],
+  "author": "tung.do@crooze.com",
+  "license": "ISC"
+}
